@@ -6,6 +6,7 @@ Adicionando esse script o usuário poderá utilizar o item "seda" juntamente com
 
 É necessário adicionar os itens "maconha", "tabaco" e "seda" nos itens básicos do servidor.
 
-# Observação
+# Observação e recomendação
 
-É interessante adicionar o tabaco e a seda nas lojinhas, para o usuário poder compra-las livremente
+* Esta é a versão 1.1 do script, mais detalhe serão adicionados
+* É interessante adicionar o tabaco e a seda nas lojinhas, para o usuário poder compra-las livremente
