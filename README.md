@@ -8,5 +8,5 @@ Adicionando esse script o usuário poderá utilizar o item "seda" juntamente com
 
 # Observação e recomendação
 
-* Esta é a versão 1.1 do script, mais detalhe serão adicionados
+* Esta é a versão 1.1 do script, mais detalhes serão adicionados
 * É interessante adicionar o tabaco e a seda nas lojinhas, para o usuário poder compra-las livremente
